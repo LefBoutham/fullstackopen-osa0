@@ -1,3 +1,3 @@
 # Fullstack Open Part 0
 
-Hello there
+Ohessa on Fullstack Open kurssin Osan 0 tehtävät.
